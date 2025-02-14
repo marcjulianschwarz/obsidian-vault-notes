@@ -1,0 +1,3 @@
+```
+pmset -g assertions
+```
