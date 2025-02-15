@@ -8,4 +8,3 @@ aliases:
 
 Use [smithery.ai](https://smithery.ai/) to easily find new MCP servers and directly install them into Claude. 
 
-
