@@ -2,5 +2,10 @@
 aliases:
   - MCP
 ---
-https://www.anthropic.com/news/model-context-protocol
+
+- General idea https://www.anthropic.com/news/model-context-protocol
+- Create a server https://modelcontextprotocol.io/quickstart/server
+
+Use [smithery.ai](https://smithery.ai/) to easily find new MCP servers and directly install them into Claude. 
+
 
