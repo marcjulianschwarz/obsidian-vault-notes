@@ -1,4 +1,3 @@
-# Decoy Effect
 
 Asymmetric numbers can influence our perception of what is acceptable.
 

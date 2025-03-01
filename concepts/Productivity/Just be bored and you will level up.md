@@ -1,4 +1,3 @@
-# Just be bored and you will level up 
 
 The idea behind this is that when you are bored and literally doing nothing, your dopamin level is going to shrink to a base level where it usually is not. 
 After being bored for long enough this will feel uncomfortable and you will want to do something.

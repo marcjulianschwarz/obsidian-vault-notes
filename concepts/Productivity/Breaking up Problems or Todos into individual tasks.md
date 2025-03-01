@@ -1,4 +1,3 @@
-# Breaking up Problems or Todos into individual tasks 
 
 1. Start with a list of tasks – or just one big project!
 2. Think through the steps you’d need to take to accomplish that task, and write them down. Don’t worry about completeness or accuracy or depth, each pass just needs to expand, even slightly, on the previous one.

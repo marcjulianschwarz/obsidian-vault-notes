@@ -1,5 +1,3 @@
-# Use Outlining to Build Anything Quickly 
-
 
 [How to Build Anything Extremely Quickly - Learn How To Learn](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 

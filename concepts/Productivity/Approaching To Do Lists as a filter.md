@@ -1,4 +1,3 @@
-# Approaching To Do Lists as a filter
 
 Don't treat your to-watch or to-read list as a to do list, treat it as a _filter_. Instead of reading/watching something, you put it onto your list, and occasionally, you go through that list and delete the items which seem least valuable/exciting/etc.
 
