@@ -1,5 +1,3 @@
-# Reasonable Colors
-
 An open-source color system for building accessible, nice-looking color palettes.
 
 ```css

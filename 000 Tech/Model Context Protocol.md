@@ -8,3 +8,10 @@ aliases:
 
 Use [smithery.ai](https://smithery.ai/) to easily find new MCP servers and directly install them into Claude. 
 
+
+
+## Clients
+
+A list of MCP clients:
+- https://github.com/punkpeye/awesome-mcp-clients
+
