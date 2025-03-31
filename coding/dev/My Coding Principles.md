@@ -1,6 +1,4 @@
-
 These are some rules or principles I want to follow for all of my coding projects. Of course they should not be applied blindly but they give a good starting point.
-
 
 ## General
 
@@ -10,6 +8,15 @@ These are some rules or principles I want to follow for all of my coding project
 - Avoid logical complexity
 	- No deeply nested ifs
 	- Use early returns
+- Avoid premature optimisation
+
+## Functions
+
+- clear input and output types 
+- readable
+- concise
+- efficient
+- short -> focusing each on one task 
 
 ## Refactoring
 
@@ -29,21 +36,15 @@ These are some rules or principles I want to follow for all of my coding project
 - Do not mix data with actions
 	- create functions for actions 
 	- if you create objects for data, then do not let them have methods 
-- Use [[Dependency Injection]] and composition instead of inheritance
-
-- prefer short functions focusing each on one task with clear input and output types 
-- prefer composition over inheritance 
-- prefer immutable objects where possible
-- no changing global state 
-- the architecture should be layered 
+- Prefer [[Dependency Injection]] and composition instead of inheritance
+- Prefer immutable objects where possible
+- No changing of global state 
+- The architecture should be layered 
 	- the lower levels operate on primitive operations and data structures while at the higher level, there should be a simpler API
-- avoid premature optimization
 
+## Git 
 
-## For Git 
-
-- do regular git pulls from the main branch and merge or rebase them into your local feature branch 
-	- this will make merging with main in the end a LOT easier 
-- make feature branch naming consistent (link to an issue number)
+- do regular git pulls for the main branch and rebase feature branches on top
+- make feature branch naming consistent by linking to an issue number and/or including the ticket type
 - prefer squash commits when having lots of unnecessary commits 
 
