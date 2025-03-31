@@ -1,4 +1,3 @@
-# Decode HEAD to the commit it references
 
 Decode HEAD to the commit (hash) it references.
 

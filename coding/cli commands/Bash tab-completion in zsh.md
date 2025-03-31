@@ -1,4 +1,3 @@
-# Bash tab-completion in zsh
 
 If you get this error
 

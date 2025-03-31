@@ -1,4 +1,3 @@
-# Small UI details nobody notices but are cool
 
 - Squircles 
 - No gray mid-tones in gradients 

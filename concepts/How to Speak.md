@@ -1,3 +1,5 @@
+Notes from https://www.youtube.com/watch?v=Unzc731iCUY.
+
 • No jargon
 • Shorter words
 • Write how you talk
