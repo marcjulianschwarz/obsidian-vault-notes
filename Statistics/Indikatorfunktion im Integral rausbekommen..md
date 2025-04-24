@@ -1,0 +1,7 @@
+---
+uni-module: "StochMod"
+---
+
+Dann versuche ich mal, das etwas genauer zu erklären. In Teilaufgabe (ii) hattet ihr auch eine [[Indikatorfunktion]] auf das Intervall [0,10] im Integral, diese seid ihr ja einfach losgeworden, indem ihr sie in die Grenzen geschrieben habt; etwas präziser: Ihr habt den Integrationsbereich so angepasst, dass ihr nur noch über den Bereich integriert, bei dem die [[Indikatorfunktion]] 1 ist. Genau das Gleiche will man hier auch machen, nur sind dieses Mal die Intervallgrenzen von k-1 bis k. Jetzt gibt es zwei Möglichkeiten: Entweder das Intervall (k-1, k] ist ganz in [0,10] enthalten, was für $k \in {1,..., 10}$ der Fall ist. Für alle anderen $k \in Z$ ist das Intervall (k-1, k] disjunkt von [0,10] (bis auf den Ausnahmefall k=0, dann haben sie einen Punkt gemeinsam; ein Punkt spielt bei der Integration aber keine Rolle). Damit ist für $k \not\in {1,..., 10} \int_{k-1}^{k} u^2 \int_{[0,10]}(u) du = \int_{k-1}^{k} u^2 * 0 du = 0$
+
+Wenn euch das für allgemeine k nicht klar ist, überlegt es euch zunächst für einen konkreten Wert: $\int_{19}^{20} u^2 \int_{[0,10]}(u) du = 0$, denn der Integrand ist immer 0. So kann/muss man diese Indikatorfunktionen behandeln. Wenn man die naheliegende Überlegung anstellt, dass Y nur Werte in [0,10] annimmt und daher $\lceil Y \rceil$ nur die Werte {1,..,10} annehmen kann, was ihr ja habt, hättet ihr auch gleich bei k nur von 1 bis 10 summieren müssen; dann wäre der Indikator immer überflüssig gewesen.

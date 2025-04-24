@@ -1,0 +1,75 @@
+---
+uni-module: "KRY"
+---
+
+# Dinge, die ich für die Kryptographie Prüfung können muss
+
+- Verschlüsselungen
+  - [[MASC-Verschlüsselung]]
+  - [[VIGENERE-Verschlüsselung]]
+  - [[PLAYFAIR-Verschlüsselung]]
+  - [[STROM-Verschlüsselung]]
+  - [[TRANSSPA-Verschlüsselung]]
+  - [[ADFGVX-Verschlüsselung]]
+- Primfaktorzerlegung
+- Kongruenzregeln (siehe weiter unten)
+- [[Erweiterter Euklidischer Algorithmus]]
+  - Gleichung $ax+by=c=ggT(n1,n2)$
+  - Anwendung mit Variablen
+- [[Fibonacci-Zahlen]]
+- [[Modulo Invertierbarkeit]]
+- ==Aufgabe 14 + 15==
+- Kongruenzgleichungssystem
+  - [[Chinesischer Restsatz|Chinesische Restsatz]]
+    - Varianten für 2 Gleichungen
+- [[Square-And-Multiply-Methode zum Potenzieren|Square-And-Multiply-Methode]]
+  - binär
+  - Algorithmus
+- [[Eulersche Funktion]] mit Primfaktorzerlegung berechnen
+- [[Satz von Euler]]
+  - Berechnung der Ordnung einer Zahl
+  - Ausnutzen bei Berechnung von Potenzen, wenn a und n prim sind
+  - immer beachten wenn irgendwas kongruent zu 1 ist
+  - versuchen Gleichungen so umzuformen, dass etwas zu 1 kongruent ist
+- [[Carmichael-Zahl]]
+- [[Korselt-Kriterium]] → anwenden
+- [[Miller-Rabin-Primzahltest]] durchführen
+  - ==Aufgabe 21/3,4==
+  - Ausnutzen, dass man bei Kongruenz mit 1 immer hoch irgendeine Potenz nehmen kann
+- Zeige [[Pseudoprimzahl|Fermat-Pseudoprimzahl]]
+- Zeige [[Miller-Rabin-Pseudoprimzahl]]
+- So früh wie möglich Kongruenzen ausnutzen und Potenzen mit 1
+- [[RSA]]
+  - [[Private Key]] für [[RSA]] bestimmen
+  - [[RSA]] entschlüsseln
+  - ==Aufgabe 26???==
+  - [[Fermat-Faktorisierung]]
+  - ==28 ????==
+  - Faktorisiere N bei Kenntnis von euler von N
+  - Faktorisiere N bei Kenntnis von d, k, und e
+    - Polynom mit p und q als Nullstellen
+  - 31
+- [[Kettenbruchentwicklung]]
+- [[Näherungsbruch]]
+  - [[RSA]] Key darin
+- Vorperiode / Nachperiode Index für Wiederholung bestimmen
+- ==Aufgabe 36??==
+- ==Aufgabe 38??==
+- Potenzregeln zusammen mit Primfaktorzerlegung ausnutzen in Kongruenzgleichungen
+- [[Ordnung]] bestimmen mit [[Satz von Euler]] und exponenten durchdividieren
+- Natürliche Zahlen lassen sich mit Kongruenzen darstellen
+- Woher die Idee aus der 41???
+- [[ElGamal-Verschlüsselung]]
+  - privaten Schlüssel bestimmen ([[Diskreter Logarithmus]])
+  - Text entschlüsseln
+- [[RSA-Signatur]]
+- [[ElGama-Signatur]]
+  - siehe Klausur Aufgaben
+- Pollardsche Rho Methode zur Berechnung von [[Diskreter Logarithmus]]
+- (p-1) Methode
+- [[Baby-Step-Giant-Step-Methode]]
+
+**Wichtige Kongruenzregeln:**
+
+- Ein vielfaches der Modulozahl kann man immer addieren / subtrahieren ohne dass sich die Kongruenzen ändern
+- Man kann immer beide Seiten einer Kongruenz mit der gleichen Zahl multiplizieren, dividieren oder eine Zahl addieren / subtrahieren.
