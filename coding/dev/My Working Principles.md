@@ -1,5 +1,4 @@
 
-
 ## Meetings
 
 > [!TIP]
@@ -8,5 +7,10 @@
 - Status Update -> Write a mail
 - Deliver Information -> Write a mail
 - Complexity, Collaboration, Emotion -> Schedule a meeting
+
+## Decisions
+
+Document major decisions and their effect on your work.
+
 
 

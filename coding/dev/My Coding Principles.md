@@ -9,6 +9,9 @@ These are some rules or principles I want to follow for all of my coding project
 	- No deeply nested ifs
 	- Use early returns
 - Avoid premature optimisation
+- Increase Cohesion
+	- Stuff that belongs together should be together (domain)
+- Decrease Coupling
 
 ## Functions
 
