@@ -51,3 +51,7 @@ These are some rules or principles I want to follow for all of my coding project
 - make feature branch naming consistent by linking to an issue number and/or including the ticket type
 - prefer squash commits when having lots of unnecessary commits 
 
+
+## Typescript
+
+- prefer interfaces over types
