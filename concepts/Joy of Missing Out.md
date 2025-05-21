@@ -1,3 +1,8 @@
+---
+aliases:
+  - JOMO
+---
+
 The **Joy of Missing Out**.
 
 ## For example
