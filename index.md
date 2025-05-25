@@ -1,3 +1,6 @@
-## 🧠 Welcome to my second brain
+### Recently added
 
+- [[Console logging objects]]
+- [[Web Components]]
+- [[Thoughts on Thinking]]
 
