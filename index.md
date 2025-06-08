@@ -7,6 +7,7 @@ You found my public notes. Feel free to explore this place. Here I write down st
 
 The following are notes that I recently added. 
 
+- [[Thoughts on Bugs]]
 - [[Thoughts on Abstraction]]
 - [[Thoughts on AI assisted coding]]
 - [[Thoughts on RAG]]
