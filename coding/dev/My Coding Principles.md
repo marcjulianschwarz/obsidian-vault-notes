@@ -4,7 +4,7 @@ These are some rules or principles I want to follow for all of my coding project
 
 - Prefer easy over complex!
 - Prefer simple side-effect free functions over complex objects
-	- See [[Speculative Generalization]]
+	- See [[Thoughts on Abstraction]]
 - Avoid logical complexity
 	- No deeply nested ifs
 	- Use early returns
