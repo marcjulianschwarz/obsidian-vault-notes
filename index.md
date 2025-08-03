@@ -1,4 +1,6 @@
-
+---
+title: Home
+---
 ## Hey there ✌️
 
 You found my public notes. Feel free to explore this place. Here I write down stuff that wasn't ready for [my blog](https://marc-julian.com/blog) yet. Right now this website even includes nearly all of my notes that I took during the lectures at university.
