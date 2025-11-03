@@ -10,7 +10,7 @@ Thought: Use Documentation for Knowledge Building.
 
 
 
-> There's no replacement for knowledge and sound mental models. Documentation, tests, they can help but they cannot replace having a knowledgeable person around.
+> There's no replacement for knowledge and sound [[Mental Model|mental models]]. Documentation, tests, they can help but they cannot replace having a knowledgeable person around.
 
 
 > Simplicity leads to success
