@@ -1,5 +1,6 @@
 
 > Unfortunately, these days, I am getting a lot of PRs where nobody has read the code, which came straight out of a robot. This makes me really angry.
+> i just say "ChatGPT told me that's wrong". if somebody thinks that unverified LLM output is relevant to a conversation, i don't want to have to defend why it shouldn't be part of the conversion, i want to put the responsibility for justifying it back onto them.
 
 
 ## Self-Review
