@@ -1,4 +1,6 @@
 
+- prefer smaller self-contained PRs than larger PRs touching many parts of the codebase at once
+
 ## LLM Generated Code
 
 - unnecessary comments
@@ -26,6 +28,8 @@ Minimally, I would like **context** for the change, **why** it required a change
 - be generous with code examples 
 - "we", passive voice, questions -> frame your notes as requests instead of commands
 - tie notes to principles, not opinions -> always give reasons for suggested changes 
+- repeated patterns should only be called out once 
+- 
 
 
 ## Resources
