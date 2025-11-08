@@ -13,7 +13,7 @@
 
 - let me catch things I usually can't find
 - adding additional comments to parts that might need clarification for the reviewer
-- 
+
 
 ## PR Descriptions
 
@@ -36,7 +36,7 @@ Minimally, I would like **context** for the change, **why** it required a change
 ### after review
 
 - unclear parts / question answered in the PR discussion should result in code changes or comments added
-- 
+
 
 
 ## Temporary vs. Permanent Authority 
