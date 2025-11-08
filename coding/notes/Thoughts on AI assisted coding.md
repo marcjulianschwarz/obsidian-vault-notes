@@ -18,6 +18,8 @@ I can relate with this comment above so much. When I don't have a clear plan in 
 
 (bold parts highlighted by me)
 
+> The worst possible situation is to have a non-programmer vibe code a large project that they intend to maintain. This would be the equivalent of giving a credit card to a child without first explaining the concept of debt.
+
 ## The craft of coding 
 
 > I treat my coding as a craft. That has become much easier, since retiring. I'm quite aware that doing things my way isn't commercially viable, but no one pays me to do it. I do it for myself. That said, I find that it's important to always be challenging myself.

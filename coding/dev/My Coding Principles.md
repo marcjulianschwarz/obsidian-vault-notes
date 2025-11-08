@@ -23,6 +23,7 @@ These are some rules or principles I want to follow for all of my coding project
 
 ## Refactoring
 
+- Only apply DRY to things that are **supposed** to have the same behavior, not things that **happen** to have the same behavior
 - Do not refactor to an atomic level 
 	- A function is **allowed** to do more than one thing
 	- A function must not be small
