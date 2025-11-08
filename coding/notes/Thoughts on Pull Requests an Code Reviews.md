@@ -9,6 +9,8 @@
 - duplicated code
 - not honoring naming conventions 
 
+If I'm reviewing a PR and when I ask why code is doing something and the response is "because the Al suggested it" I'm probably rejecting it. You need to understand what the code is doing. Remember, it's Copilot, not the captain.
+
 ## Self-Review
 
 - let me catch things I usually can't find
