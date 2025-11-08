@@ -1,5 +1,6 @@
 
-- prefer smaller self-contained PRs than larger PRs touching many parts of the codebase at once
+- "prefer smaller self-contained PRs than larger PRs touching many parts of the codebase at once" -> when it makes sense 
+- "do one thing"
 
 ## LLM Generated Code
 
@@ -21,6 +22,8 @@ Minimally, I would like **context** for the change, **why** it required a change
 
 ## Code Review
 
+### how to review 
+
 - treat as high priority 
 - start immediately and take your time 
 - the absolute maximum turnaround on a review round should be one business day
@@ -29,10 +32,17 @@ Minimally, I would like **context** for the change, **why** it required a change
 - "we", passive voice, questions -> frame your notes as requests instead of commands
 - tie notes to principles, not opinions -> always give reasons for suggested changes 
 - repeated patterns should only be called out once 
+
+### after review
+
+- unclear parts / question answered in the PR discussion should result in code changes or comments added
 - 
 
+
+## Temporary vs. Permanent Authority 
 
 ## Resources
 
 - https://mtlynch.io/human-code-reviews-1/
 - https://mtlynch.io/human-code-reviews-2/
+- https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/
