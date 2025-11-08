@@ -46,3 +46,4 @@ Minimally, I would like **context** for the change, **why** it required a change
 - https://mtlynch.io/human-code-reviews-1/
 - https://mtlynch.io/human-code-reviews-2/
 - https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/
+- https://mtlynch.io/code-review-love/
