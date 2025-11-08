@@ -23,4 +23,12 @@ Minimally, I would like **context** for the change, **why** it required a change
 - start immediately and take your time 
 - the absolute maximum turnaround on a review round should be one business day
 - start high level (refactors, architecture, etc.) and work your way down during review rounds to lower level changes (variable naming, file naming, style issues, etc.)
-- 
+- be generous with code examples 
+- "we", passive voice, questions -> frame your notes as requests instead of commands
+- tie notes to principles, not opinions -> always give reasons for suggested changes 
+
+
+## Resources
+
+- https://mtlynch.io/human-code-reviews-1/
+- https://mtlynch.io/human-code-reviews-2/
