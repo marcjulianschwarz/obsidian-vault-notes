@@ -21,7 +21,6 @@ If I'm reviewing a PR and when I ask why code is doing something and the respons
 
 Minimally, I would like **context** for the change, **why** it required a change to this part of the codebase, and the **thought process** behind the change.
 
-
 ## Code Review
 
 ### how to review 
