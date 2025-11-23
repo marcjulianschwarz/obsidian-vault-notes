@@ -1,5 +1,4 @@
 
-
 - "Manual Thinking" Zones
 	- writing by hand 
 	- unassisted thinking 
