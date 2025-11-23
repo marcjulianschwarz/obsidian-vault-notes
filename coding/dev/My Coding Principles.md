@@ -61,3 +61,8 @@ These are some rules or principles I want to follow for all of my coding project
 	- When possible, use the type parameter itself rather than constraining it
 	- Always use as few type parameters as possible
 	- If a type parameter only appears in one location, strongly reconsider if you actually need it
+
+
+## Backwards compatibility
+
+Changes should preferably be backwards compatible and purely **additive**. Try avoiding changing old interfaces instead of extending or adding new ones. Then slowly deprecate old interfaces, attributes, etc. by migrating to newer types.

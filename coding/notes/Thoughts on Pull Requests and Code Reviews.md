@@ -11,6 +11,11 @@
 
 If I'm reviewing a PR and when I ask why code is doing something and the response is "because the Al suggested it" I'm probably rejecting it. You need to understand what the code is doing. Remember, it's Copilot, not the captain.
 
+
+## Code Style
+
+Someone who can't bother looking around and adapt their style to the surrounding code sounds like a problem to me. Even more than that, it means the developer has spent no time understanding the surrounding code, and thus is likely adding debt/CRUFT/risk.
+
 ## Self-Review
 
 - let me catch things I usually can't find

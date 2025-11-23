@@ -1,3 +1,4 @@
-```
+
+```bash
 pmset -g assertions
 ```

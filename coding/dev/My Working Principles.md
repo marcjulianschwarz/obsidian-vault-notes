@@ -2,7 +2,7 @@
 ## Meetings
 
 > [!TIP]
-> **Meetings should be dialogues, not monologues!**
+> Meetings should be **dialogues**, not monologues!
 
 - Status Update -> Write a ~~mail~~ chat message
 - Deliver Information -> Write a mail
@@ -20,10 +20,9 @@ Example: Linux kernel was entirely built over email.
 
 Agree with this quote from Hackernews for many types of meetings. Very rarely are they actually needed.
 
-
 ### Brainstorming meetings
 
-If they don't happen **in person** with a **small** selection of **experts** it 
+If they don't happen **in person** with a **small** selection of **experts** this type of meeting is questionable.
 
 ## Decisions
 
@@ -35,7 +34,13 @@ Document major decisions and their effect on your work.
 - leave syntax errors in the code when clocking out in the evening 
 - put TODO comments everywhere when developing a feature, then make sure there are none left when asking for review
 
-
 ## Work Life Balance 
 
 It is also a good idea to place the hobby part of programming in a related but not same field/tech stack than you day job. If you simply do more work in your free time you might burn out. You want something that provides relaxation but still synergy effects with your day job.
+
+
+## On leaving jobs 
+
+> People don't leave jobs, they leave managers
+
+
