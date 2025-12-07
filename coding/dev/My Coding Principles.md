@@ -11,6 +11,7 @@ These are some rules or principles I want to follow for all of my coding project
 - Avoid premature optimisation
 - Increase Cohesion
 	- Stuff that belongs together should be together (domain)
+	- [[Make stuff be near]]
 - Decrease Coupling
 
 ## Functions
