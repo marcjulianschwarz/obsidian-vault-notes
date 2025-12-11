@@ -29,6 +29,3 @@ tags: ["coding","summary"]
 
 ## Backwards Compatibility
 * Strive for backwards compatibility by making changes additive and progressively migrating deprecated interfaces.
-## Forward Compatibility
-* Design systems to accommodate future changes with minimal disruption.
-* Ensure extensibility and adaptability to new requirements.
