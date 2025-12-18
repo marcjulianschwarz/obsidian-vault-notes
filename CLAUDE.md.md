@@ -1,4 +1,4 @@
-undefined# Your instructions (CLAUDE.md)
+# Your instructions (CLAUDE.md)
 
 ## 01. ALWAYS get an overview
 
