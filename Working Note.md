@@ -88,4 +88,14 @@ Want to get into 3D printing again. And I found a cool thing that I would like t
 
 ![[CleanShot 2026-01-19 at 17.02.55@2x.png]]
 
-You can attach this to a wall and always have the perfect amount of coffee (fres)
+You can attach this to a wall and always have the perfect amount of coffee (fresh beans or preground) ready to go. See [the-brew-code.de](https://the-brew-code.de) for my coffee obsession.
+
+
+## Product Marketing
+
+Build things and then talk about them in a way that people remember and share it with friends. I guess some call it clever product marketing.
+
+
+## Reading
+
+I want to get into the habit of reading books aloud. This helps a lot in being attentive and actually understanding the written words. And it will let you come up with tons of questions about the text and your understanding of it.

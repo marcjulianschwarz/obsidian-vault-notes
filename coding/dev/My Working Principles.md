@@ -47,6 +47,9 @@ Document major decisions and their effect on your work.
 
 It is also a good idea to place the hobby part of programming in a related but not same field/tech stack than you day job. If you simply do more work in your free time you might burn out. You want something that provides relaxation but still synergy effects with your day job.
 
+> OSS is your legacy! If you write proprietary code, everything you do dies with that company. I certainly don't want my life's work locked away like that. Working on OSS means a better chance to put the engineering first and do something that will last.
+
+--> Contribute more to open source projects or at least to hobby projects that exist across job changes.
 
 ## On leaving jobs 
 
