@@ -45,4 +45,21 @@ const Page = lazy(() => import("./pages/page"));
 ```
 
 
-This method can be used to lazily load components with large dependencies (e.g. PDFjs library). 
+This method can be used to lazily load components with large dependencies (e.g. PDFjs library).
+
+
+## UX Design
+
+
+- document flows from apps I really like. Thinking of journeys not of screens
+	- generally try to understand flows, structured steps in a user journey
+- write down design decision. Why did I design it like this?
+- show to small user base (5 users or so)
+- don't but icons in menus everywhere, use them where they make sense
+
+
+
+## AI Features 
+
+Don't make them boring like a chat or search feature. Make them fit right in and automatically do stuff without the user even noticing that it is AI.
+
