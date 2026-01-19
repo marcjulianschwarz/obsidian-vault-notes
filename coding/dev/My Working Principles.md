@@ -4,6 +4,10 @@ I want to **care** about my products. About every single bit of it. Even in the 
 
 > **Jony Ive’s** interview notes argue that meaningful design comes from caring about people and unseen details, prioritizing intimate, real-world collaboration over speed, and believing true quality shows up in what isn’t immediately visible.
 
+
+> Your job is to deliver code you have proven to work.  See [https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything)
+> Code must be manually exercised, covered by automated tests with reproducible evidence (commands, outputs, recordings or screenshots) included in the [[Thoughts on Pull Requests and Code Reviews|Pull Request]].
+
 ## Meetings
 
 > [!TIP]

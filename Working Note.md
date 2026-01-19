@@ -56,7 +56,7 @@ This method can be used to lazily load components with large dependencies (e.g. 
 - write down design decision. Why did I design it like this?
 - show to small user base (5 users or so)
 - don't but icons in menus everywhere, use them where they make sense
-
+- Explore well-known components from different websites: https://component.gallery/components/
 
 
 ## AI Features 
@@ -66,3 +66,26 @@ Don't make them boring like a chat or search feature. Make them fit right in and
 # Anticipatory shipping
 
 No idea why but I found out about this patent from Amazon that kind of blows my mind. If you display strong intent to buy a certain product, Amazon will already load the item on a truck and move it  to a logistics center near you. On a large scale this will more often than not actually be the right decision. 
+
+
+## Cool CLI Website stuff
+
+About me:
+
+```bash
+curl marc-julian.com
+```
+
+Contact me:
+
+```bash
+curl marc-julian.com/email | sh
+```
+
+## 3D Printing
+
+Want to get into 3D printing again. And I found a cool thing that I would like to print. This espresso single shot glass holder:
+
+![[CleanShot 2026-01-19 at 17.02.55@2x.png]]
+
+You can attach this to a wall and always have the perfect amount of coffee (fres)
