@@ -10,3 +10,39 @@ Cool thing, I made a really nice tasting herbal butter with Claudes help:
 - butter
 
 Tasted amazing.
+
+
+## Bundle Chunk Size Improvements
+
+Analyze bundle size using the rollup visualizer plugin in vite.config.ts:
+
+```ts
+import { visualizer } from "rollup-plugin-visualizer";
+
+export default defineConfig({
+  plugins: [
+    react(),
+    tailwindcss(),
+    visualizer({
+      filename: "stats.html",
+      emitFile: true,
+      template: "treemap",
+    }),
+  ],
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+});
+```
+
+
+Lazy import of pages:
+
+```ts
+const Page = lazy(() => import("./pages/page"));
+```
+
+
+This method can be used to lazily load components with large dependencies (e.g. PDFjs library). 
