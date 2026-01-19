@@ -63,3 +63,6 @@ This method can be used to lazily load components with large dependencies (e.g. 
 
 Don't make them boring like a chat or search feature. Make them fit right in and automatically do stuff without the user even noticing that it is AI.
 
+# Anticipatory shipping
+
+No idea why but I found out about this patent from Amazon that kind of blows my mind. If you display strong intent to buy a certain product, Amazon will already load the item on a truck and move it  to a logistics center near you. On a large scale this will more often than not actually be the right decision. 
