@@ -1,5 +1,21 @@
 
-## 
+## Social Media and other free dopamine as a local minima
+
+Read the following comment on a Hackernews discussion some time ago and I resonate with this description of "free dopamine hits" like social media being a local minimum. It is really easy to end up in this place of a social media addiction but it requires significant effort to overcome the slope out of this minimum to get over the edge down into a more global or better minimum. 
+
+Now the question is, how do you find the slope, how do you start climbing it and how do you avoid falling back down while climbing it.
+
+> Fundamentally, I think having a source of "free dopamine" on tap is not going to do any good. If I can get distracted from my real world tasks anytime, anywhere, the immediate incentives to work on real things disappear. Effectively, one can get stuck in a local minimum.
+> I don't know how to solve it, but personally I've chosen to block as many feeds/algorithms as I can, so I have to make a conscious decision to search for something (making it just as hard as making the conscious decision that I'm likely putting off). The only feeds I have right now are the FT and Hacker News. Everything else is just a blank home screen with a search bar.
+
+## Effort
+
+Something I want to try to do is doing things with less effort, like explained in [this post](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/). This does not mean being lazy but just doing things a bit more laid back. 
+This reminds me a lot of this concept I always encountered while doing Cardistry, Speedcubing, Speedstacking and Poiball:
+
+> Do it slow. Slow is **smooth** and smooth is **fast**.
+
+Maybe this is even relevant in the context of AI Assisted coding ([[Thoughts on AI assisted coding]]) where people (including me) tend to crank out feature by feature without stepping back and taking the time to fully grasp the problem first. Something to think about for sure.
 
 ## Bundle Chunk Size Improvements
 
