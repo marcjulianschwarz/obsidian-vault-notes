@@ -5,5 +5,6 @@ This is awesome to generally ignore files like `.env` or `DS_Store` on your enti
 touch ~/.gitignore_global
 
 git config --global core.excludesfile ~/.gitignore_global
-
 ```
+
+And recently I included `CLAUDE.md` in there.
