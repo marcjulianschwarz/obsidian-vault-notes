@@ -34,6 +34,10 @@ Now the question is, how do you find the slope, how do you start climbing it and
 > Fundamentally, I think having a source of "free dopamine" on tap is not going to do any good. If I can get distracted from my real world tasks anytime, anywhere, the immediate incentives to work on real things disappear. Effectively, one can get stuck in a local minimum.
 > I don't know how to solve it, but personally I've chosen to block as many feeds/algorithms as I can, so I have to make a conscious decision to search for something (making it just as hard as making the conscious decision that I'm likely putting off). The only feeds I have right now are the FT and Hacker News. Everything else is just a blank home screen with a search bar.
 
+One more related quote from hackernews about social media being designed to be this way because overcoming social media and getting into a better local minima would turn you away from ad-driven platforms.
+
+> Today social media is more like a drug, to keep the user engaged and to push content to them. The content must either be addictive/engaging or paid advertisements. Quality of the content doesn't matter at all. Connecting people to do stuff outside of the virtual world would actually hurt their business model. People turn off their devices and go outside, instead of watching ads.
+
 ## Effort
 
 Something I want to try to do is doing things with less effort, like explained in [this post](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/). This does not mean being lazy but just doing things a bit more laid back. 
