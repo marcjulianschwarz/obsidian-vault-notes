@@ -1,4 +1,21 @@
 
+## Blog Post Titles Checklist
+
+- [ ] Do the potential readers understand it?
+- [ ] Does it NOT rely on a well established personal brand?
+- [ ] Do I want to be a bit informal? Show it in the title.
+- [ ] Don't have the conclusion in your title
+- [ ] Don't have a title be just a "label" like "The XYZ Effect"
+- [ ] Make the title be a short sentence 
+- [ ] Start to create your thing, _then_ you choose a title, then structure your thing to deliver on the title 
+- [ ] 
+
+## On Independence
+
+Want to form this into some actionable points:
+https://collabfund.com/blog/pure-independence/
+
+
 ## Social Media and other free dopamine as a local minima
 
 Read the following comment on a Hackernews discussion some time ago and I resonate with this description of "free dopamine hits" like social media being a local minimum. It is really easy to end up in this place of a social media addiction but it requires significant effort to overcome the slope out of this minimum to get over the edge down into a more global or better minimum. 

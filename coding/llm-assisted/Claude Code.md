@@ -1,5 +1,5 @@
 
-- Add "Plan thorouhgly"
+- Add "Plan thoroughly"
 - Add "Ask me any clarifying questions if needed"
 - Ask backend agent for summary of a change to explain to the frontend agent
 - Do NOT use auto compaction, instead often reset the context in between new features with /reset or by quitting and running claude code again
