@@ -1,3 +1,6 @@
+
+> Do less, and do it better.
+
 ## Products
 
 I want to **care** about my products. About every single bit of it. Even in the parts that might not seem obvious at first or are hidden for the actual user. There should be no rough edges, everything should fit in. (of course not in a prototype).

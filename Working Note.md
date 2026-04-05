@@ -1,4 +1,14 @@
 
+Maybe add the following to my working/coding principles:
+- **The ability to accurately answer questions about large software systems is extremely valuable**. -> Striving to be able to do that
+
+## Documenting healthy diet habits 
+
+This is only a quote that got me thinking about it:
+
+> Eat lots of fruits and vegetables. Avoid processed food. Especially avoid processed meats. Eat food with low caloric density. Avoid added sugar. Avoid alcohol. _Avoid processed food_.
+
+But I really want to summarize all my gained knowledge about a healthy diet somewhere (maybe on recipes.marc-julian.com or in a note here). Just to have everything in one place.
 ## Blog Post Titles Checklist
 
 - [ ] Do the potential readers understand it?
@@ -8,7 +18,6 @@
 - [ ] Don't have a title be just a "label" like "The XYZ Effect"
 - [ ] Make the title be a short sentence 
 - [ ] Start to create your thing, _then_ you choose a title, then structure your thing to deliver on the title 
-- [ ] 
 
 ## On Independence
 
