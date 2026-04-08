@@ -1,4 +1,19 @@
 
+## Engineering Notebook
+
+#blog
+
+I read about engineering notebooks here: https://ntietz.com/blog/using-an-engineering-notebook/ and for me the aspects that stood out the most were:
+
+- it is an append-only notebook (no modifications or deletions)
+- you write notes before doing a code change
+	- this requires thinking through the problem before writing any code and through that could lead to better code
+- writing the note (and the thinking before writing) is the main selling point here. Reading back old notes not so much
+
+Will try this out for at least a week in my day-to-day job. For personal projects I don't see the benefit yet as long as you are still in the fast paced prototyping stage of your project. Maybe this will change after the week. Will keep a record on this.
+
+
+
 Maybe add the following to my working/coding principles:
 - **The ability to accurately answer questions about large software systems is extremely valuable**. -> Striving to be able to do that
 
@@ -9,6 +24,7 @@ This is only a quote that got me thinking about it:
 > Eat lots of fruits and vegetables. Avoid processed food. Especially avoid processed meats. Eat food with low caloric density. Avoid added sugar. Avoid alcohol. _Avoid processed food_.
 
 But I really want to summarize all my gained knowledge about a healthy diet somewhere (maybe on recipes.marc-julian.com or in a note here). Just to have everything in one place.
+
 ## Blog Post Titles Checklist
 
 - [ ] Do the potential readers understand it?
