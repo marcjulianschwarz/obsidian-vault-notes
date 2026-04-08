@@ -1,6 +1,7 @@
-The [[React]] model:
+The [[React]] model is awesome:
 
 ```
 ui = f(state)
 ```
+
 

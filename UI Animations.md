@@ -1,0 +1,12 @@
+
+- 
+- subtle scale-down on button presses
+- frequency of use
+	- delightful animations only in places that rarely get used
+- most hover effects -> no animation 
+	- depending on how often they are seen by the user in a day
+- keyboard-controlled -> no animation
+- fast spinners
+- less than 300ms -> preferably less than 180ms
+- tooltip short delay, but once shown, no animation
+- 

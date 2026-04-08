@@ -1,8 +1,7 @@
 
-Simplicity = Entangled
+Simplicity ==> Not Entangled
 
-[[Make stuff be near]]
-
+- [[Make stuff be near]]
 
 Simplicity means fewer things that can go wrong.
 - less to fiddle with
@@ -12,4 +11,12 @@ Simplicity means fewer things that can go wrong.
 - easier to understand
 - easier to fix
 - easier to make your own
-- 
+
+But:
+> Simplicity isn’t a philosophy you apply universally and everything works out. It’s a bias. A default. A starting point that serves you well most of the time, and occasionally reminds you that trade-offs are real.
+
+
+On Simplicity: 
+- https://jangobrecht.com/blog/chasing-simplicity/
+
+https://jangobrecht.com/

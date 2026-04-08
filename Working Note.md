@@ -1,4 +1,36 @@
 
+## 
+
+## oh-my-zsh git plugin
+
+Honestly, best tool for speeding up git workflows is the oh-my-zsh git plugin with this amazing list of aliases for all sort of git commands:
+
+https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
+
+Doing something like the following feels like magic:
+
+```bash
+gsw main
+gl
+gsw feature/my-feature
+gst
+gstu
+grb main
+gpf
+gstp
+```
+
+- switching to main branch
+- pulling newest changes on main 
+- switching back to feature branch
+- checking status of my files 
+- stashing all changes (including untracked)
+- rebasing feature branch onto main
+- force pushing the rebased branch to the remote
+- popping the stashed changes to continue working
+
+All that in about 10 seconds because the commands get into muscle memory fast. Could not live without it anymore.
+
 ## Engineering Notebook
 
 #blog
