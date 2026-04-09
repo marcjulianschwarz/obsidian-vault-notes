@@ -9,6 +9,9 @@ You found my public notes. Feel free to explore this place. Here I write down st
 
 The following are notes that I recently added. 
 
+![[Untitled.base]]
+
+
 - [[Thoughts on Bugs]]
 - [[Thoughts on Abstraction]]
 - [[Thoughts on AI assisted coding]]

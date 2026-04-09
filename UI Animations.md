@@ -1,5 +1,4 @@
 
-- 
 - subtle scale-down on button presses scale(0.97)
 - frequency of use
 	- delightful animations only in places that rarely get used

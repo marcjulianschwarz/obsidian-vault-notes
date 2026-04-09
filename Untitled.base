@@ -1,0 +1,9 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    sort:
+      - property: file.ctime
+        direction: DESC
