@@ -1,5 +1,11 @@
 
-## 
+THIS THIS THIS: https://emilkowal.ski/ui/developing-taste
+
+AND THIS THIS THIS:
+![[CleanShot 2026-04-08 at 23.35.28@2x.png]]
+
+
+Just wrote down some notes about [[UI Animations]]. Will definitely want to learn this more which is why I enrolled in the course.
 
 ## oh-my-zsh git plugin
 
