@@ -59,3 +59,10 @@ It is also a good idea to place the hobby part of programming in a related but n
 > People don't leave jobs, they leave managers
 
 
+## Some thoughts
+
+- Saying yes by default (“I can do that” reflex)
+- Over-indexing on tickets and chores over deeper problems
+- Difficulty delegating or leaving work unfinished for others
+- Taking pride in being “the one who can fix it”
+

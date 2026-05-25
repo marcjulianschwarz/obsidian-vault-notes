@@ -7,48 +7,6 @@ AND THIS THIS THIS:
 
 Just wrote down some notes about [[UI Animations]]. Will definitely want to learn this more which is why I enrolled in the course.
 
-## oh-my-zsh git plugin
-
-Honestly, best tool for speeding up git workflows is the oh-my-zsh git plugin with this amazing list of aliases for all sort of git commands:
-
-https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
-
-Doing something like the following feels like magic:
-
-```bash
-gsw main
-gl
-gsw feature/my-feature
-gst
-gstu
-grb main
-gpf
-gstp
-```
-
-- switching to main branch
-- pulling newest changes on main 
-- switching back to feature branch
-- checking status of my files 
-- stashing all changes (including untracked)
-- rebasing feature branch onto main
-- force pushing the rebased branch to the remote
-- popping the stashed changes to continue working
-
-All that in about 10 seconds because the commands get into muscle memory fast. Could not live without it anymore.
-
-## Engineering Notebook
-
-#blog
-
-I read about engineering notebooks here: https://ntietz.com/blog/using-an-engineering-notebook/ and for me the aspects that stood out the most were:
-
-- it is an append-only notebook (no modifications or deletions)
-- you write notes before doing a code change
-	- this requires thinking through the problem before writing any code and through that could lead to better code
-- writing the note (and the thinking before writing) is the main selling point here. Reading back old notes not so much
-
-Will try this out for at least a week in my day-to-day job. For personal projects I don't see the benefit yet as long as you are still in the fast paced prototyping stage of your project. Maybe this will change after the week. Will keep a record on this.
 
 
 
@@ -101,41 +59,6 @@ This reminds me a lot of this concept I always encountered while doing Cardistry
 
 Maybe this is even relevant in the context of AI Assisted coding ([[Thoughts on AI assisted coding]]) where people (including me) tend to crank out feature by feature without stepping back and taking the time to fully grasp the problem first. Something to think about for sure.
 
-## Bundle Chunk Size Improvements
-
-Analyze bundle size using the rollup visualizer plugin in vite.config.ts:
-
-```ts
-import { visualizer } from "rollup-plugin-visualizer";
-
-export default defineConfig({
-  plugins: [
-    react(),
-    tailwindcss(),
-    visualizer({
-      filename: "stats.html",
-      emitFile: true,
-      template: "treemap",
-    }),
-  ],
-  resolve: {
-    alias: {
-      "@": path.resolve(__dirname, "./src"),
-    },
-  },
-});
-```
-
-
-Lazy import of pages:
-
-```ts
-const Page = lazy(() => import("./pages/page"));
-```
-
-
-This method can be used to lazily load components with large dependencies (e.g. PDFjs library).
-
 
 ## UX Design
 
@@ -157,19 +80,6 @@ Don't make them boring like a chat or search feature. Make them fit right in and
 No idea why but I found out about this patent from Amazon that kind of blows my mind. If you display strong intent to buy a certain product, Amazon will already load the item on a truck and move it  to a logistics center near you. On a large scale this will more often than not actually be the right decision. 
 
 
-## Cool CLI Website stuff
-
-About me:
-
-```bash
-curl marc-julian.com
-```
-
-Contact me:
-
-```bash
-curl marc-julian.com/email | sh
-```
 
 ## 3D Printing
 

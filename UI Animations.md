@@ -12,7 +12,12 @@
 - use ease-out for things entering or exiting the screen
 - transform-origin should be set correctly (center is default and often wrong)
 - use `filter: blur()` to smooth out fading animations 
+- use `cubic-bezier(.215, .61, .355, 1)` with `150ms` on dropdowns
 
 https://animations.dev/
 
 https://emilkowal.ski/ui/7-practical-animation-tips
+
+https://developer.apple.com/videos/play/wwdc2018/803/
+
+- short interaction --> amplified reaction 

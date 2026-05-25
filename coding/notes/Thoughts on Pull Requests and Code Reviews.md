@@ -1,5 +1,6 @@
 
-- "prefer smaller self-contained PRs than larger PRs touching many parts of the codebase at once" -> when it makes sense 
+- "prefer smaller self-contained PRs than larger PRs touching many parts of the codebase at once" -> when it makes sense
+	- sort of max 500 lines, better less
 - "do one thing"
 
 ## LLM Generated Code
@@ -8,6 +9,14 @@
 - emojis in comments and debug logs 
 - duplicated code
 - not honoring naming conventions 
+- extremely defensive written code 
+	- trying to catch all and random exceptions
+	- does it swallow errors
+	- doing retries everywhere
+	- catching edge cases that can't even happen
+	- logging everything
+- having "fallbacks"
+	- LLMs like to generate fallback routes for everything instead of fixing the underlying problem or abstraction
 
 If I'm reviewing a PR and when I ask why code is doing something and the response is "because the Al suggested it" I'm probably rejecting it. You need to understand what the code is doing. Remember, it's Copilot, not the captain.
 
