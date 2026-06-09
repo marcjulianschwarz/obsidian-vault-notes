@@ -1,6 +1,11 @@
 
 #todo clean up this mess of thoughts and ideas about AI assisted coding, my views changed quite a lot in the last few weeks of using Claude Code more and more.
 
+
+**Value Shift in Coding**
+True value lies in judgment, tradeoffs, and intent. 
+
+
 There's this concept in aviation of "ahead of or behind the plane". When you're ahead of the plane, you understand completely what it's doing and why, and you're literally thinking in front of it. When you're behind the plane, it has done something expected and you are literally thinking behind it.
 
 I think about coding assistants like this as well

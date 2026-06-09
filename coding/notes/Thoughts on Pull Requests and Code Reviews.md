@@ -1,7 +1,15 @@
 
-- "prefer smaller self-contained PRs than larger PRs touching many parts of the codebase at once" -> when it makes sense
+## Guidelines
+
+- Prefer smaller self-contained PRs over larger PRs touching many parts of the codebase at once
 	- sort of max 500 lines, better less
-- "do one thing"
+	- when it makes sense
+- A PR should do a single thing
+	- if necessary, do multiple things in clear cut commits and mention this in the PR description 
+- PR titles should at least include ([see Linux kernel](https://www.kernel.org/doc/html/v7.0/process/submitting-patches.html#the-canonical-patch-format))
+	- some ticket number
+	- system/subsystem it touches
+	- short summary of change
 
 ## LLM Generated Code
 

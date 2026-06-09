@@ -10,27 +10,30 @@ See my [[Working Note]] for what I am working on right now.
 <!-- QueryToSerialize: LIST FROM "" SORT file.mtime DESC LIMIT 15 -->
 <!-- SerializedQuery: LIST FROM "" SORT file.mtime DESC LIMIT 15 -->
 - [[index]]
-- [[Primitives  Primer]]
-- [[Thoughts on Life]]
-- [[UI Animations]]
-- [[Persons on the web I like]]
 - [[Working Note]]
+- [[Thoughts on Life]]
+- [[Thoughts on Pull Requests and Code Reviews]]
+- [[Thoughts on Code Quality]]
+- [[Thoughts on Premature Optimization]]
+- [[My Working Principles]]
+- [[Thoughts on UI Animations]]
+- [[Design Specs]]
+- [[Primitives  Primer]]
+- [[Persons on the web I like]]
 - [[Thoughts on UI]]
 - [[Thoughts on Features]]
 - [[Simplicity]]
 - [[Icon Packs]]
-- [[My Working Principles]]
-- [[Claude Code]]
-- [[Global Gitignore]]
-- [[Thoughts on AI assisted coding]]
-- [[Take screenshots of a website]]
 
 <!-- SerializedQuery END -->
 ## Recently added
 <!-- QueryToSerialize: LIST FROM "" SORT file.ctime DESC LIMIT 15 -->
 <!-- SerializedQuery: LIST FROM "" SORT file.ctime DESC LIMIT 15 -->
+- [[Thoughts on Code Quality]]
+- [[Thoughts on Premature Optimization]]
+- [[Design Specs]]
 - [[Persons on the web I like]]
-- [[UI Animations]]
+- [[Thoughts on UI Animations]]
 - [[Thoughts on Features]]
 - [[Thoughts on Life]]
 - [[Take screenshots of a website]]
@@ -41,9 +44,6 @@ See my [[Working Note]] for what I am working on right now.
 - [[coding]]
 - [[Primitives  Primer]]
 - [[Date Time Range Picker]]
-- [[business]]
-- [[Minecraft Server Docker]]
-- [[Impostor Syndrome]]
 
 <!-- SerializedQuery END -->
 
