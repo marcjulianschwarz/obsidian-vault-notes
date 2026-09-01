@@ -1,8 +1,5 @@
 
 
-
-
-
 THIS THIS THIS: https://emilkowal.ski/ui/developing-taste
 
 AND THIS THIS THIS:
