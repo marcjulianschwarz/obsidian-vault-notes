@@ -1,0 +1,3 @@
+- https://finnian.io/blog/
+- https://jvns.ca/
+- https://will-keleher.com/posts/
